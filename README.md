@@ -10,3 +10,6 @@ Please refer to the ppt
 
 #MRNET PROJECT:
 Research Paper attached
+
+#FDL GRANULAR HH CHALLENGE:
+The objective of the Hurricane Harvey challenge was implemented to develop performant segmentation models capable of identifying residential property features and neighborhood assets after a major flooding event using recent Deep Learning techniques. As our planet increasingly faces existential threats from climate-related natural catastrophes, our ability to “weather the storm” is predicated on our capacity to develop better ways to monitor and evaluate ground conditions before, during, and after such events. In particular the main objective of this challenge is to segment images acquired by a small UAV(sUAV) in Houston. 
